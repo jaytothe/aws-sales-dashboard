@@ -5,6 +5,6 @@ A serverless data pipeline that automatically generates a live sales analytics d
 ![Dashboard](dashboard)
 
 ## Live Demo
-[View Dashboard](YOUR_S3_URL_HERE)
+[View Dashboard]([YOUR_S3_URL_HERE](https://sales-dashboard-jaytothe.s3.us-east-2.amazonaws.com/dashboard/index.html))
 
 ## Architecture
